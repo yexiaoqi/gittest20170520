@@ -8,6 +8,7 @@ int main()
 {
 	std::cout << "kong";
 	std::cout << "12:11第一次修改";
+	std::cout << "12:23第二次修改";
     return 0;
 }
 
