@@ -6,6 +6,7 @@
 
 int main()
 {
+	std::cout << "kong";
 	std::cout << "12:11第一次修改";
     return 0;
 }
